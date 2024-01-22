@@ -1,12 +1,13 @@
-<h3 align="center"><b> Social </b></h3>
-<p align="center">
-  <a href="https://starting-coding.tistory.com"><img src="http://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&link=https://starting-coding.tistory.com&logoColor=#FFFFFF"/></a>
-</p>
+## Introduce 
 
-<h3 align="center"><b> Main Stack </b></h3>
-</br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-</p>
+### 황병국 | 꾸준히 성장하고 싶은 개발자
+
+<br> 
+
+**테스트에 대한 고민을 생활화**합니다.  
+  - **테스트 가능한 코드를 작성하는 것**을 당연하게 생각합니다.
+  - 이전에 진행했던 프로젝트의 경우 **300개의 테스트 코드**를 작성했으며, **Line Coverage 67%를** 달성한 경험이 있습니다.
+
+**꾸준함을 중요하게 생각합니다.**
+  - **기술적인 어려움을 마주하고 해결하는 과정**을 통해 **새로운 지식을 습득하는 것**을 좋아합니다.
+  - 배운 내용과 과정을 개인 블로그에 꾸준히 담아내며, 현재 **350개의 글**을 작성했습니다.
