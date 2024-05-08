@@ -17,7 +17,7 @@
 **Backend**
 - java
 - Spring Boot
-- JPA
+- Spring Data JPA
 - Junit 5, Mockito
 
 **DevOps**
